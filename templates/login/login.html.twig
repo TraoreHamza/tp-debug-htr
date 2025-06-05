@@ -16,7 +16,7 @@
             {% else %}
                 <p class="text-center text-xs text-emerald-600 mb-6">Content de vous revoir 😁<br>Connectez-vous pour accéder à votre compte.</p>
                 
-                <form method="">
+                <form method="post">
                     {% if error %}
                         <div class="text-xs text-center text-red-700 p-2 rounded mb-4">😬 {{ error.messageKey|trans(error.messageData, 'security') }}</div>
                     {% endif %}
