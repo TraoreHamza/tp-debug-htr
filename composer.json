@@ -40,7 +40,7 @@
         "symfony/string": "7.2.*",
         "symfony/translation": "7.2.*",
         "symfony/twig-bundle": "7.2.*",
-        "symfony/ux-icons": "^2.23",
+        "symfony/ux-icons": "^2.25",
         "symfony/ux-live-component": "^2.23",
         "symfony/ux-toggle-password": "^2.23",
         "symfony/ux-translator": "^2.23",
@@ -49,7 +49,7 @@
         "symfony/validator": "7.2.*",
         "symfony/web-link": "7.2.*",
         "symfony/yaml": "7.2.*",
-        "symfonycasts/tailwind-bundle": "^0.7.1",
+        "symfonycasts/tailwind-bundle": "^0.10.0",
         "symfonycasts/verify-email-bundle": "^1.17.3",
         "twig/extra-bundle": "^2.12|^3.20",
         "twig/twig": "^2.12|^3.20"
